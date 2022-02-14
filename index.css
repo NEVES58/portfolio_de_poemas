@@ -51,9 +51,10 @@
   margin-left: 105px;
 }
 
-.botao {
+.textodobotao1 {
   color: black;
   align-items: center;
+  font-size: 40px;
 }
 .botao1 {
   background-color: rgb(21, 111, 146);
@@ -64,12 +65,23 @@
 
 .poema2 {
   display: flex;
+
   justify-content: space-around;
   align-items: center;
 }
 
 .titulopoema2 {
-  margin-left: 135px;
+}
+
+.ladoesquerdodopoema2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.teste1 {
+  display: flex;
+  flex-direction: column;
 }
 
 .botao2 {
@@ -79,4 +91,114 @@
 }
 .textodobotao2 {
   color: black;
+  font-size: 40px;
+}
+
+.poema3 {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.titulopoema3 {
+  color: rgb(8, 8, 56);
+}
+
+.ladodireitodopoema3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.botao3 {
+  background-color: rgb(21, 111, 146);
+  height: 70px;
+  width: 400px;
+}
+
+.textobotao3 {
+  color: black;
+  font-size: 40px;
+}
+
+.identificaçãopoema3 {
+  color: black;
+}
+
+.poema4 {
+  padding-top: 50px;
+  padding-left: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ladoesquerdodopoema4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.botao4 {
+  background-color: rgb(21, 111, 146);
+  height: 70px;
+  width: 400px;
+}
+
+.textobotao4 {
+  color: black;
+  font-size: 40px;
+}
+
+.poema5 {
+  background-color: white;
+  color: black;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ladodireitodopoema5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.botao5 {
+  background-color: rgb(21, 111, 146);
+  height: 70px;
+  width: 400px;
+}
+
+.textodobotao5 {
+  color: black;
+  font-size: 40px;
+}
+
+.poema6 {
+  padding-top: 30px;
+  padding-left: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ladoesquerdodopoema6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.botao6 {
+  background-color: rgb(21, 111, 146);
+  height: 70px;
+  width: 400px;
+}
+
+.textodobotao6 {
+  color: black;
+  font-size: 40px;
 }

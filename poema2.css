@@ -1,19 +1,10 @@
 .body {
   background-color: bisque;
 }
-
 .poema {
   margin-left: 470px;
   margin-top: 30px;
 }
-
 .sobreopoema {
   border-top: 5px solid rgb(20, 63, 155);
-}
-
-.seta {
-  height: 75px;
-  width: 75px;
-  margin-top: 10px;
-  margin-left: 10px;
 }
